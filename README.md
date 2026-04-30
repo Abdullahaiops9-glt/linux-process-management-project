@@ -25,6 +25,8 @@ linux-process-management-project/
 
 │   ├── top.png
 
+│   ├── htop.png
+
 │   ├── ps-aux.png
 
 │   ├── jobs.png
